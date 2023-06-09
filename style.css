@@ -1,0 +1,141 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 100px;
+}
+
+.header {
+  padding: 80px;
+  text-align: center;
+  color: darkblue;
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+.Topimage {
+  float: left;
+  width: 30%;
+  height: 10%;
+  right: 600px;
+  padding: 50px;
+}
+
+.under{
+  float: left;
+  width: 40%;
+  height: 50%;
+  margin-right: 100%;
+  font-family: 'Courier New', monospace;
+  font-size: 35px;
+  color: black;
+  font-weight: bold;
+  text-indent: 5px;
+}
+
+.righttext {
+  margin-top: 170px;
+  color: darkblue;
+  font-weight: bold;
+}
+
+body {
+  background-color: #c8b7a6;
+}
+
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  color: darkblue;
+}
+
+.Childhood {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  position: relative;
+  padding-left: 38%;
+  padding-right: 38%;
+  color: darkblue;
+  font-weight: bold;
+}
+
+.Hobbies {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  position: relative;
+  padding-left: 38%;
+  padding-right: 38%;
+ color: darkblue;
+  font-weight: bold;
+}
+
+.Goals {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+ position: relative;
+  padding-left: 38%;
+  padding-right: 38%;
+  color: darkblue;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-weight: bold;
+}
+
+.nyc{
+  position: absolute;
+  width: 30%;
+  height: 550px;
+}
+
+.queens {
+  position: absolute;
+  width: 30%;
+  height: 550px;
+  right: 5%;
+  top: 225%;
+}
+
+.future {
+  width: 30%;
+  position: absolute;
+  height: 550px;
+}
+
+.college {
+  width: 30%;
+  position: absolute;
+  height: 550px;
+  right: 5%;
+  top: 306%;
+}
+
+.anime {
+    position: absolute;
+  width: 30%;
+  height: 550px;
+}
+
+.pet {
+  position: absolute;
+  width: 30%;
+  height: 550px;
+  right: 5%;
+  top: 400%;
+}
+
+
+
+
+
